@@ -1,1 +1,1 @@
-# Hi
+![Layout Preview](https://raw.githubusercontent.com/marciofmjr/coursera-html-css-course-hair-saloon/main/screencapture.png)
